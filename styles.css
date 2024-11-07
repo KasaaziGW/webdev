@@ -1,0 +1,9 @@
+.container{
+    /* margin-top: 50px; */
+    padding: 50px;
+    /* border: 2px dashed rgb(50, 250, 75); */
+  }
+  nav{
+    margin-left: auto;
+    margin-right: auto;
+  }
